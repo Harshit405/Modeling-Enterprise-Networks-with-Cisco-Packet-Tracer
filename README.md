@@ -1,4 +1,4 @@
-# 📡Modern-Network-Management-Techniques-CLI-vs-SDN
+# 📡Modeling Enterprise Networks with Cisco Packet Tracer
 This project demonstrates a comparative analysis between traditional Command-Line Interface (CLI) based network management and modern Software Defined Networking (SDN) using Cisco Packet Tracer. It highlights differences in configuration style, control mechanisms, scalability, and operational efficiency.
 
 # 📘 Overview
